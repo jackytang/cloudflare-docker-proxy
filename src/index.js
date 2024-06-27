@@ -17,7 +17,7 @@ const routes = {
   "ecr.juyou.live": "https://public.ecr.aws",
 
   // staging
-  "docker-staging.libcuda.so": dockerHub,
+  "docker-staging.juyou.live": dockerHub,
 };
 
 function routeByHosts(host) {
